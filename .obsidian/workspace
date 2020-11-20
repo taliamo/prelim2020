@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "939468676f79a1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c04ac215944aa1f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electromagnetism/1. Maxwell's equations.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f7328a71df7b5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d35c6678cc54aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8dc955a5aa1b81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60c1eb9340259b4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91bc65551621a6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "170ee70fffc3a320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f6f2561d8765c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electromagnetism/1. Maxwell's equations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Electromagnetism/1. Maxwell's equations.md",
+    "Electromagnetism/2. Statics.md",
+    "Electromagnetism/4. EM waves.md",
+    "Electromagnetism/Concepts.md",
+    "Untitled.md",
+    "Electromagnetism/3. Flux and surfaces.md",
+    "Electromagnetism/Untitled.md",
+    "Electromagnetism/Maxwell's equations.md"
+  ]
+}

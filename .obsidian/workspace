@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electromagnetism/1. Maxwell's equations.md",
-            "mode": "preview"
+            "file": "StatMech/Statistical Distributions.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetism/1. Maxwell's equations.md"
+                "file": "StatMech/Statistical Distributions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,13 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Electromagnetism/1. Maxwell's equations.md",
+    "Untitled.md",
+    "StatMech/2018_long_2_hmw.pdf",
+    "Quantum/Foundations of Quantum Mech.md",
+    "Quantum/Spin States BraKet.md",
+    "Quantum/2018_long_3_ep.pdf",
     "Electromagnetism/2. Statics.md",
+    "Electromagnetism/1. Maxwell's equations.md",
     "Electromagnetism/4. EM waves.md",
     "Electromagnetism/Concepts.md",
-    "Untitled.md",
-    "Electromagnetism/3. Flux and surfaces.md",
-    "Electromagnetism/Untitled.md",
-    "Electromagnetism/Maxwell's equations.md"
+    "Electromagnetism/3. Flux and surfaces.md"
   ]
 }

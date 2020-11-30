@@ -24,8 +24,20 @@ Has no V or U, potential energy, term
 ## Time dependent
 ![[Pasted image 20201125102648.png]]
 
+In 2D, U(x,y) and $(\partial^2/\partial x^2 + \partial^2/\partial y^2)$ 
+
+
 
 ## Quantum Numbers
 
 ![[Pasted image 20201125115734.png]]
 spin can be 1/2 or 1 depending on particle type.
+
+# Wavefunctions
+
+The state of a particle is of the form something like $\Psi=Axe^{-distance/position}$ for time-independent. Where there might be boundayr conditions. You can choose these conditions based on, maybe the derivative of this function. You can think of it like the composition of cos/sin functions, where you need the wave function/oscillation to be countinuous at the edges of a box (quantum well).
+
+![[Pasted image 20201129103544.png]]
+
+See how the function is continuous at the edges/boundaries.
+

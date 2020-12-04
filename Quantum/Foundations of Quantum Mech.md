@@ -5,6 +5,16 @@ Each measureable parameter is a QM operator because each parameter is a wave wit
 
 The Hamiltonian operator is energy, $\hat{H}_{op} \Psi_i=E_i\Psi_i$ where each energy value is an eigenenergy and each $\Psi_i$ is an eigenfunction (exact solutions). In time-dependent systems, $\hat{H}\Psi=i\hbar \frac{\partial}{\partial t}$.
 
+## x and p
+
+position and momentum operators are unitarily equivalent, related by Fourrier transform (basis change). See 2017 Long #4 a).
+
+# Basis changes
+
+You can change bases by defining an operator like:
+![[Pasted image 20201130163747.png]]
+
+
 # Schroedinger Eq
 
 Predicts the future behaviour of a dynamic system (relates to conservation of energy)...and is a wave function that predicts analytically the probability of an outcome (by distributions).
@@ -40,4 +50,9 @@ The state of a particle is of the form something like $\Psi=Axe^{-distance/posit
 ![[Pasted image 20201129103544.png]]
 
 See how the function is continuous at the edges/boundaries.
+
+# Delta functions
+[Identities here](https://www.reed.edu/physics/faculty/wheeler/documents/Miscellaneous%20Math/Delta%20Functions/Simplified%20Dirac%20Delta.pdf)
+
+note $\delta(x-a)=0$ for $x\neq a$ 
 

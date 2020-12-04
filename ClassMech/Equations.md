@@ -1,3 +1,7 @@
+Is it a free body problem?
+
+
+
 Energy relativity: energy is conserved in its vector length form (non-directional...think of referential frames and particles moving in opposite directions to each other but with same total E)
 
 ![[Pasted image 20201130124937.png]]
@@ -7,3 +11,9 @@ http://scipp.ucsc.edu/~haber/ph116A/taylor11.pdf#:~:text=Taylor%20Series%20Expan
 
 ![[Pasted image 20201130125050.png]]
 
+# Rela
+
+# Adding springs
+
+parallel: sum K
+series: sum 1/k

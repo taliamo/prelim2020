@@ -26,3 +26,7 @@ More Bohr [here](http://hyperphysics.phy-astr.gsu.edu/hbase/bohrcn.html#c1)
 
 ## Photoelectric effect
 electrons ejected from conducting surface had energy proportional to frequency of the illuminating light. $E=h\nu$. 
+
+## Fermi Energy
+
+Fermi energy is the difference betwen lowest and highest energy particles at T=0Kelvin (also max E_K an electron can have at T=0 K)

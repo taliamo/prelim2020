@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ClassMech/Equations.md",
-            "mode": "source"
+            "file": "Electromagnetism/2. Statics and Circuits.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ClassMech/Equations.md",
+                "file": "Electromagnetism/2. Statics and Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Electromagnetism/2. Statics.md",
+    "Electromagnetism/3. Flux and surfaces.md",
+    "Electromagnetism/4. EM waves.md",
+    "Electromagnetism/Concepts.md",
     "Untitled.md",
-    "Quantum/1D problems.md",
-    "Quantum/Foundations of Quantum Mech.md",
-    "Quantum/Quantum Statistics.md",
-    "Quantum/Spin States BraKet.md",
-    "Quantum/Time dependent perturbation.md",
-    "Quantum/Other topics.md",
     "StatMech/Statistical Distributions.md",
-    "StatMech/2018_long_2_hmw.pdf",
-    "Quantum/2018_long_3_ep.pdf"
+    "StatMech/Grand Canonical.md",
+    "StatMech/Partition functions.md",
+    "ClassMech/Equations.md",
+    "Electromagnetism/Gauss Law.md"
   ]
 }

@@ -6,7 +6,8 @@ I've broken down topics in electromagnetism by:
 
 The topics that Jon said we should know (Nov 20):
 
-
+# work of a field
+W= f. dr -> in the direction. So if movement is not in direction of field, then it does no work. 
 
 
 

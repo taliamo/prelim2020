@@ -9,6 +9,16 @@ http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/statcn.html#c1
 ## Fermi-Dirac
 ![[Pasted image 20201125120804.png]]
 
+Fermi function: probability that a fermion will occupy a certain energy state E. Up to E_F, at T=0, probability is close to 1. Above E_f, probability goes to 0.
+
+kT is about 10^2 smaller than the order of magnitude of E_f
+
+### Fermi Gas
+Can be non-interacting
+
+$d N(E)=\bar n(E) g_s g(E) dE$
+
+and $e_F/k_B=T_F$
 
 ## Bose-Einstein
 ![[Pasted image 20201125120726.png]]

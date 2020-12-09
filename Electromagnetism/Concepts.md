@@ -29,3 +29,7 @@ Biot-Savart law can be used to advantage in calculating the magnetic field resul
 Current creates B field. $d\vec{B} = \frac{\mu_0 I d \vec{L} \times \vec{1_r}}{4\pi r^2}$, where $\vec{dL}$ is small length of the conductor carrying current $I$ and $\vec{1_r}$ is a unit vector specifying radial direction of the vector distance r from current to the field point somewhere away.
 
 Scattering? Radiation from a point charge? 
+
+## Kinetic and electric phenomena #action
+
+![[Pasted image 20201209104439.png]]

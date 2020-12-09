@@ -56,3 +56,5 @@ See how the function is continuous at the edges/boundaries.
 
 note $\delta(x-a)=0$ for $x\neq a$ 
 
+# expectatio nvalues
+applying a state (bra) to an operator acting on a state (ket)

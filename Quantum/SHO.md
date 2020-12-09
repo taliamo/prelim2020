@@ -1,0 +1,1 @@
+Ground state wave function for SHO $\Psi_{\pm}=Ne^{-\alpha(x\mp a)^2/2}$
